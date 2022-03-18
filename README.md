@@ -11,3 +11,4 @@ A simple web browser by using PyQt5
 
 ## Screenshot
 ![](https://i.postimg.cc/y8QbSbJF/Screenshot-18.png)
+![](https://i.postimg.cc/ncvszyPP/Screenshot-19.png)
